@@ -1,0 +1,47 @@
+C:\Users\nikto\source\repos\Form15.3\Form15.3\obj\Debug\Form15._3.Form15_3.resources
+C:\Users\nikto\source\repos\Form15.3\Form15.3\obj\Debug\Form15._3.Properties.Resources.resources
+C:\Users\nikto\source\repos\Form15.3\Form15.3\obj\Debug\Form15.3.csproj.GenerateResource.cache
+C:\Users\nikto\source\repos\Form15.3\Form15.3\obj\Debug\Form15.3.csproj.CoreCompileInputs.cache
+C:\Users\nikto\source\repos\Form15.3\Form15.3\obj\Debug\Form15.3.csprojAssemblyReference.cache
+C:\Users\nikto\source\repos\Form15.3\Form15.3\bin\Debug\Form15.3.exe.config
+C:\Users\nikto\source\repos\Form15.3\Form15.3\bin\Debug\Form15.3.exe
+C:\Users\nikto\source\repos\Form15.3\Form15.3\bin\Debug\Form15.3.pdb
+C:\Users\nikto\source\repos\Form15.3\Form15.3\obj\Debug\Form15.3.exe
+C:\Users\nikto\source\repos\Form15.3\Form15.3\obj\Debug\Form15.3.pdb
+C:\Users\Arthut\Desktop\Form15.3\Form15.3\bin\Debug\Form15.3.exe.config
+C:\Users\Arthut\Desktop\Form15.3\Form15.3\bin\Debug\Form15.3.exe
+C:\Users\Arthut\Desktop\Form15.3\Form15.3\bin\Debug\Form15.3.pdb
+C:\Users\Arthut\Desktop\Form15.3\Form15.3\obj\Debug\Form15._3.Form15_3.resources
+C:\Users\Arthut\Desktop\Form15.3\Form15.3\obj\Debug\Form15._3.Properties.Resources.resources
+C:\Users\Arthut\Desktop\Form15.3\Form15.3\obj\Debug\Form15.3.csproj.GenerateResource.Cache
+C:\Users\Arthut\Desktop\Form15.3\Form15.3\obj\Debug\Form15.3.csproj.CoreCompileInputs.cache
+C:\Users\Arthut\Desktop\Form15.3\Form15.3\obj\Debug\Form15.3.exe
+C:\Users\Arthut\Desktop\Form15.3\Form15.3\obj\Debug\Form15.3.pdb
+E:\ВГУ\2 семестр\АиСД\15\Form15.3+\Form15.3\bin\Debug\Form15.3.exe.config
+E:\ВГУ\2 семестр\АиСД\15\Form15.3+\Form15.3\obj\Debug\Form15.3.exe
+E:\ВГУ\2 семестр\АиСД\15\Form15.3+\Form15.3\obj\Debug\Form15.3.pdb
+E:\ВГУ\2 семестр\АиСД\15\Form15.3+\Form15.3\bin\Debug\Form15.3.exe
+E:\ВГУ\2 семестр\АиСД\15\Form15.3+\Form15.3\bin\Debug\Form15.3.pdb
+E:\ВГУ\2 семестр\АиСД\15\Form15.3+\Form15.3\obj\Debug\Form15.3.csprojResolveAssemblyReference.cache
+E:\ВГУ\2 семестр\АиСД\15\Form15.3+\Form15.3\obj\Debug\Form15._3.Form15_3.resources
+E:\ВГУ\2 семестр\АиСД\15\Form15.3+\Form15.3\obj\Debug\Form15._3.Properties.Resources.resources
+E:\ВГУ\2 семестр\АиСД\15\Form15.3+\Form15.3\obj\Debug\Form15.3.csproj.GenerateResource.Cache
+d:\Orders\958735\Form15_3_1_2263368\Form15.3+\Form15.3\bin\Debug\Form15.3.exe.config
+d:\Orders\958735\Form15_3_1_2263368\Form15.3+\Form15.3\obj\Debug\Form15.3.exe
+d:\Orders\958735\Form15_3_1_2263368\Form15.3+\Form15.3\obj\Debug\Form15.3.pdb
+d:\Orders\958735\Form15_3_1_2263368\Form15.3+\Form15.3\bin\Debug\Form15.3.exe
+d:\Orders\958735\Form15_3_1_2263368\Form15.3+\Form15.3\bin\Debug\Form15.3.pdb
+d:\Orders\958735\Form15_3_1_2263368\Form15.3+\Form15.3\obj\Debug\Form15.3.csprojResolveAssemblyReference.cache
+d:\Orders\958735\Form15_3_1_2263368\Form15.3+\Form15.3\obj\Debug\Form15._3.Form15_3.resources
+d:\Orders\958735\Form15_3_1_2263368\Form15.3+\Form15.3\obj\Debug\Form15._3.Properties.Resources.resources
+d:\Orders\958735\Form15_3_1_2263368\Form15.3+\Form15.3\obj\Debug\Form15.3.csproj.GenerateResource.Cache
+F:\ВГУ\2 семестр\АиСД\15-е\Form15_3\Form15.3+\Form15.3\bin\Debug\Form15.3.exe.config
+F:\ВГУ\2 семестр\АиСД\15-е\Form15_3\Form15.3+\Form15.3\bin\Debug\Form15.3.exe
+F:\ВГУ\2 семестр\АиСД\15-е\Form15_3\Form15.3+\Form15.3\bin\Debug\Form15.3.pdb
+F:\ВГУ\2 семестр\АиСД\15-е\Form15_3\Form15.3+\Form15.3\obj\Debug\Form15.3.csprojResolveAssemblyReference.cache
+F:\ВГУ\2 семестр\АиСД\15-е\Form15_3\Form15.3+\Form15.3\obj\Debug\Form15._3.Form15_3.resources
+F:\ВГУ\2 семестр\АиСД\15-е\Form15_3\Form15.3+\Form15.3\obj\Debug\Form15._3.Properties.Resources.resources
+F:\ВГУ\2 семестр\АиСД\15-е\Form15_3\Form15.3+\Form15.3\obj\Debug\Form15.3.csproj.GenerateResource.Cache
+F:\ВГУ\2 семестр\АиСД\15-е\Form15_3\Form15.3+\Form15.3\obj\Debug\Form15.3.csproj.CoreCompileInputs.cache
+F:\ВГУ\2 семестр\АиСД\15-е\Form15_3\Form15.3+\Form15.3\obj\Debug\Form15.3.exe
+F:\ВГУ\2 семестр\АиСД\15-е\Form15_3\Form15.3+\Form15.3\obj\Debug\Form15.3.pdb
